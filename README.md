@@ -13,7 +13,7 @@ I'm a programming student at **Epitech Nice**, and I like building the things mo
 
 - 🔭 Most of my work lives in **C and C++**, close to the metal
 - 🧠 I learn by rebuilding: if I can write it from scratch, I understand it
-- 🧑‍🏫 **Assistant Epitech Régional (AER)** — I teach and mentor other students, run pedagogical follow-up and manage CI tooling for the school
+- 🧑‍🏫 **Assistant Epitech Régional (AER)** — I teach and mentor other students, and manage CI tooling for the school
 - 🤝 Open to **internships and collaborative projects**
 - 📫 Reach me at **[florent.serra@epitech.eu](mailto:florent.serra@epitech.eu)**
 
