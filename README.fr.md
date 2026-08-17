@@ -1,9 +1,9 @@
 <p align="center">
-  🇫🇷 <b><a href="https://github.com/Polturgust/Polturgust/blob/main/README.fr.md">Cette page est aussi disponible en français</a></b>
+  🇬🇧 <b><a href="https://github.com/Polturgust/Polturgust/blob/main/README.md">This page is also available in English</a></b>
 </p>
 
-<h1 align="center">Hi 👋, I'm Florent Serra</h1>
-<h3 align="center">Systems & low-level programmer — Epitech Nice</h3>
+<h1 align="center">Salut 👋, moi c'est Florent Serra</h1>
+<h3 align="center">Développeur systèmes & bas niveau — Epitech Nice</h3>
 
 <p align="center">
   <a href="https://linktr.ee/florent_serra"><img src="https://img.shields.io/badge/LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"/></a>
@@ -11,21 +11,21 @@
 
 ---
 
-### About me
+### À propos
 
-I'm a programming student at **Epitech Nice**, and I like building the things most people take for granted — a shell, a 3D renderer, a chat platform, a game server — from the ground up.
+Je suis étudiant en programmation à **Epitech Nice**, et j'aime construire de zéro les choses que la plupart des gens tiennent pour acquises — un shell, un moteur de rendu 3D, une plateforme de chat, un serveur de jeu.
 
-- 🔭 Most of my work lives in **C and C++**, close to the metal
-- 🧠 I learn by rebuilding: if I can write it from scratch, I understand it
-- 🧑‍🏫 **Assistant Epitech Régional (AER)** — I teach and mentor other students, and manage CI tooling for the school
-- 🤝 Open to **internships and collaborative projects**
-- 📫 Reach me at **[florent.serra@epitech.eu](mailto:florent.serra@epitech.eu)**
+- 🔭 Je travaille surtout en **C et C++**, au plus près de la machine
+- 🧠 J'apprends en reconstruisant : si je sais l'écrire de zéro, c'est que je l'ai compris
+- 🧑‍🏫 **Assistant Epitech Régional (AER)** — j'enseigne et j'accompagne d'autres étudiants, et je gère les outils de CI de l'école
+- 🤝 Ouvert aux **stages et aux projets collaboratifs**
+- 📫 Contactez-moi à **[florent.serra@epitech.eu](mailto:florent.serra@epitech.eu)**
 
 ---
 
-### Tech stack
+### Stack technique
 
-**Languages**
+**Langages**
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
@@ -37,7 +37,7 @@ I'm a programming student at **Epitech Nice**, and I like building the things mo
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
 </p>
 
-**Tools & environment**
+**Outils & environnement**
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
@@ -51,12 +51,12 @@ I'm a programming student at **Epitech Nice**, and I like building the things mo
 
 ---
 
-### My work
+### Mes projets
 
-A renderer, a raycasting 3D engine, a Unix shell, and much more — **all my pinned repositories are right below** 👇
+Un moteur de rendu, un moteur 3D en raycasting, un shell Unix, et bien plus encore — **tous mes dépôts épinglés sont sur mon profil** 👉 **[github.com/Polturgust](https://github.com/Polturgust)**
 
-Each one has its own README with the architecture, the design choices and what I actually learned building it. That's where the interesting details are.
+Chacun a son propre README avec l'architecture, les choix de conception et ce que j'ai réellement appris en le construisant. C'est là que se trouvent les détails intéressants.
 
 ---
 
-<p align="center"><i>Currently looking for an internship — feel free to reach out.</i></p>
+<p align="center"><i>Actuellement à la recherche d'un stage — n'hésitez pas à me contacter.</i></p>
