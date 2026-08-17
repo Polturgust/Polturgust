@@ -14,6 +14,7 @@ I'm a programming student at **Epitech Nice**, and I like building the things mo
 
 - 🔭 Most of my work lives in **C and C++**, close to the metal
 - 🧠 I learn by rebuilding: if I can write it from scratch, I understand it
+- 🧑‍🏫 **Assistant Epitech Régional (AER)** — I teach and mentor other students, run pedagogical follow-up and manage CI tooling for the school
 - 🌱 Currently digging into **rendering, networking and distributed systems**
 - 🤝 Open to **internships and collaborative projects**
 - 📫 Reach me at **[florent.serra@epitech.eu](mailto:florent.serra@epitech.eu)**
@@ -22,29 +23,39 @@ I'm a programming student at **Epitech Nice**, and I like building the things mo
 
 ### Tech stack
 
+**Languages**
+
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="Haskell"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+</p>
+
+**Tools & environment**
+
+<p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake"/>
-  <img src="https://img.shields.io/badge/Make-A42E2B?style=flat-square&logo=gnu&logoColor=white" alt="Make"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
+
+Also worked with REST API design, image recognition, database management and process automation.
 
 ---
 
-### Featured projects
+### My work
 
-| Project | What it is | Why it was hard | Stack |
-| --- | --- | --- | --- |
-| **[Raytracer](https://github.com/Polturgust/Raytracer)** | A renderer that generates images by simulating how light actually travels | Ray–object intersection math, reflections and shading, plus keeping render times sane | `C++` |
-| **[Zappy](https://github.com/Polturgust/Zappy)** | A network multiplayer game where autonomous AI clients play on their own | Custom protocol over sockets, a multi-client server, and AI agents that cooperate without a human | `C++` |
-| **[Wolf3D](https://github.com/Polturgust/Wolf3D)** | A 3D game built on a raycasting engine, in the spirit of Wolfenstein 3D | Writing the raycaster by hand — no engine, no 3D library, just math and a framebuffer | `C` |
-| **[my-shell](https://github.com/Polturgust/my-shell)** | A recreation of the tcsh shell | Parsing, process forking, pipes, redirections and signal handling, matching real shell behaviour | `C` |
-| **[Teams-from-scratch](https://github.com/Polturgust/Teams-from-scratch)** | A Microsoft Teams–style chat platform, rebuilt from the ground up | Client/server architecture, concurrent users and persistent state | `C++` |
-| **[Zelmon-project](https://github.com/Polturgust/Zelmon-project)** | *The Legend of Pokémon: Zelda's corruption* — a game mixing two universes | Game loop, sprite and state management, and designing systems that stay readable as the game grows | `Python` |
+A renderer, a raycasting 3D engine, a Unix shell, a networked game server, a chat platform — **my pinned repositories are right below** 👇
+
+Each one has its own README with the architecture, the design choices and what I actually learned building it. That's where the interesting details are.
 
 ---
 
