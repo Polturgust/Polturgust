@@ -1,12 +1,14 @@
-<p align="center">
-  🇬🇧 <b><a href="https://github.com/Polturgust">This page is also available in English</a></b>
-</p>
-
 <h1 align="center">Salut 👋, moi c'est Florent Serra</h1>
 <h3 align="center">Développeur systèmes & bas niveau — Epitech Nice</h3>
 
 <p align="center">
   <a href="https://linktr.ee/florent_serra"><img src="https://img.shields.io/badge/LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"/></a>
+</p>
+
+---
+
+<p align="center">
+  🇬🇧 <b><a href="https://github.com/Polturgust">This page is also available in English</a></b>
 </p>
 
 ---
