@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://linktr.ee/florent_serra"><img src="https://img.shields.io/badge/LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"/></a>
-  <a href="mailto:florent.serra@epitech.eu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -15,7 +14,6 @@ I'm a programming student at **Epitech Nice**, and I like building the things mo
 - 🔭 Most of my work lives in **C and C++**, close to the metal
 - 🧠 I learn by rebuilding: if I can write it from scratch, I understand it
 - 🧑‍🏫 **Assistant Epitech Régional (AER)** — I teach and mentor other students, run pedagogical follow-up and manage CI tooling for the school
-- 🌱 Currently digging into **rendering, networking and distributed systems**
 - 🤝 Open to **internships and collaborative projects**
 - 📫 Reach me at **[florent.serra@epitech.eu](mailto:florent.serra@epitech.eu)**
 
@@ -47,24 +45,13 @@ I'm a programming student at **Epitech Nice**, and I like building the things mo
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-Also worked with REST API design, image recognition, database management and process automation.
-
 ---
 
 ### My work
 
-A renderer, a raycasting 3D engine, a Unix shell, a networked game server, a chat platform — **my pinned repositories are right below** 👇
+A renderer, a raycasting 3D engine, a Unix shell, and much more — **all my pinned repositories are right below** 👇
 
 Each one has its own README with the architecture, the design choices and what I actually learned building it. That's where the interesting details are.
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Polturgust&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polturgust&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-</p>
 
 ---
 
