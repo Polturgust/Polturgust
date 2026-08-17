@@ -1,5 +1,5 @@
 <p align="center">
-  🇬🇧 <b><a href="https://github.com/Polturgust/Polturgust/blob/main/README.md">This page is also available in English</a></b>
+  🇬🇧 <b><a href="https://github.com/Polturgust">This page is also available in English</a></b>
 </p>
 
 <h1 align="center">Salut 👋, moi c'est Florent Serra</h1>
